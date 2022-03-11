@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @laurenerose1
-- 👀 I'm a recruiter looking to become a software engineer
-- 🌱 I’m currently learning ... python 
-- 📕 looking to learn alot of things, network, and grow as a woman in tech
+- 👋 Hi, I’m Lauren.
+- 😎- My pronouns are she/her/hers
+- 👀 I'm a recruiter that is learning how to code!
+- 🌱 I’m currently learning ... python & ruby
 - 📫 lauren.e.rose1@gmail.com
 
 <!---
