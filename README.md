@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... JavaScript
 - 📫 lercodes@gmail.com
 - 🌎 based out of California
-- 📚 Skills- HTML, CSS, C, Python, Ruby
+- 📚 Skills- JavaScript, Python, Ruby, HTML, CSS, C
 
 
 
